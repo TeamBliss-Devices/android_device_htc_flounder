@@ -1,6 +1,8 @@
 [
   {
+    "remote": "TeamBliss-Devices",
     "repository": "android_kernel_htc_flounder",
     "target_path": "kernel/htc/flounder"
+    "revision": "lp5.1"
   }
 ]
